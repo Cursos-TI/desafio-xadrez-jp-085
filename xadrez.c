@@ -204,7 +204,7 @@ int main() {
     //Nivel Aventureiro
     //================
 
-     i = 1, movimento = 1; //zerando para não ter nenhum problema
+     i = 1, movimento = 1; //zerando para não ter nenhum problema.
 
     printf("---ESCOLHA AS PEÇAS---\n");
     printf("[1]. Torre\n");
