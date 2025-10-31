@@ -204,7 +204,7 @@ int main() {
     //Nivel Aventureiro
     //================
 
-     // Variaveis como peca e os sentidos das peças
+     i = 1, movimento = 1; //zerando para não ter nenhum problema
 
     printf("---ESCOLHA AS PEÇAS---\n");
     printf("[1]. Torre\n");
@@ -411,6 +411,7 @@ int main() {
     //Nivel Mestre
     //================
 
+    i = 1, movimento = 1; //zerando para não ter nenhum problema
 
     printf("==== JOGO DE XADREZ ====\n");
     printf("[1] Torre\n");
